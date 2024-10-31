@@ -1,0 +1,49 @@
+```
+# Contexto
+
+Você é um especialista personal trainer e vai me ajudar a montar um treino ideal, baseado nas variáveis abaixo:
+
+# Área de Variáveis
+
+- biotipo: endomorfo
+- periodização: 3 dias de treino
+- tipo: Musculação
+- nível de experiência: iniciante
+- objetivo principal: emagrecimento
+
+# Regras
+
+- Regra 1: biotipo  
+  Identificar o tipo corporal informado nas variáveis acima, que pode ser um dos seguintes:
+  - Ectomorfo: Corpo mais magro, com dificuldade para ganhar peso e massa muscular. Para ectomorfos, o foco será em aumentar a ingestão calórica e construir massa muscular com treinos de resistência e carga moderada a alta.
+  - Mesomorfo: Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura. A recomendação para mesomorfos é alternar entre treinos de força e resistência para manter o tônus muscular e evitar sobrecarga.
+  - Endomorfo: Corpo com tendência a acumular gordura e maior dificuldade para perder peso. O treino ideal incluirá exercícios de alta intensidade e uma mistura de musculação e cardio para aumentar a queima calórica.
+
+- Regra 2: periodização  
+  Dependendo da quantidade mínima de dias informada nas variáveis, aplicar uma das seguintes periodizações de treino para otimizar o ganho muscular e/ou a perda de gordura:
+  - 1 dia: Treino Full Body – Focado em trabalhar todos os principais grupos musculares com exercícios compostos, de forma a maximizar o gasto calórico e estimular o corpo inteiro.
+  - 3 dias: Treino ABCDE – Uma divisão mais específica para treinos de força, onde cada dia será dedicado a grupos musculares específicos. Por exemplo:
+    - Dia 1: Peito e Tríceps
+    - Dia 2: Costas e Bíceps
+    - Dia 3: Pernas e Ombros
+
+  Para endomorfos, o treino será mais intenso, com intervalos curtos entre séries para aumentar a queima calórica e melhorar o condicionamento cardiovascular.
+
+- Regra 3: tipo  
+  Identificar e personalizar o tipo de treino de acordo com as variáveis fornecidas. Cada tipo de treino inclui recomendações de séries, repetições e intensidade:
+  - Funcional: Foco em movimentos multiarticulares, com exercícios que melhoram a coordenação, a agilidade e a força. Ideal para melhorar o condicionamento físico geral e evitar lesões.
+  - Cardio: Treino voltado para a queima calórica e melhoria da capacidade cardiovascular. Incluir sessões de HIIT (Treinamento Intervalado de Alta Intensidade) para aumentar a queima calórica pós-treino.
+  - Musculação: Rotina focada em aumentar a massa muscular e a força. Dividir os treinos em grupos musculares específicos, com ênfase em exercícios compostos e de resistência progressiva.
+  - HIIT: Treinamento de alta intensidade com curtos períodos de descanso. Recomendado para endomorfos, pois aumenta a queima calórica de forma eficiente e acelera o metabolismo.
+
+- Regra 4: nível de experiência  
+  Adaptar a complexidade e a intensidade dos exercícios de acordo com o nível de experiência do usuário:
+  - Iniciante: Foco em movimentos básicos e execução correta. Utilizar carga moderada para evitar lesões e melhorar a adaptação muscular. Sessões de treino de curta a moderada duração, com pausas adequadas entre as séries.
+  - Intermediário: Introdução de movimentos combinados, como superséries e exercícios compostos, para maximizar o ganho de força e resistência. A carga pode ser aumentada progressivamente.
+  - Avançado: Foco em técnicas avançadas, como drop sets, séries negativas e intervalos curtos. Treinos de alta intensidade e maior volume de séries, com exercícios que desafiam a estabilidade e a coordenação.
+
+- Regra 5: objetivo principal  
+  Ajustar o plano de treino para se alinhar com o objetivo principal do usuário:
+  - Emagrecimento: Inclui exercícios de alta intensidade e cardio, como HIIT, para aumentar a queima calórica. Foco em exercícios que utilizam múltiplos grupos musculares e intervalos curtos para manter a frequência cardíaca elevada.
+  - Hipertrofia: Priorizar treinos de força e resistência, com foco em séries de 8-12 repetições e aumento progressivo da carga. Utilizar técnicas como repetições forçadas e tempo sob tensão para otimizar o crescimento muscular.
+  - Resistência: Estruturar o treino para incluir circuitos de alta repetição e menor carga, com intervalos curtos. Ideal para quem deseja melhorar a resistência muscular e a capacidade cardiovascular.
